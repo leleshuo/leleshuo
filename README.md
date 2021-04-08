@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leleshuo
 - 👀 I’m interested in typeScript and vue
 - 🌱 I’m currently learning uniapp
-- 💞️ I’m looking to collaborate on zhiwang Co,Ltd
+- 💞️ I’m looking to collaborate on hcgds Co,Ltd
 - 📫 How to reach me ...
 
 <!---
