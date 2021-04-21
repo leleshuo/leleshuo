@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leleshuo
-- 👀 I’m interested in typeScript and vue
+- 👀 I’m interested in typeScript and javascript
 - 🌱 I’m currently learning uniapp
 - 💞️ I’m looking to collaborate on hcgds Co,Ltd
-- 📫 How to reach me ...
+- 📫 How to reach me 13603989407
 
 <!---
 leleshuo/leleshuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
